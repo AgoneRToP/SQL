@@ -35,3 +35,18 @@ SELECT * FROM tickets;
 --          8 | 2024-05-08 16:30:00        |       8 |         8
 --          9 | 2024-05-09 19:00:00        |       9 |         9
 --         10 | 2026-03-12 12:55:36.059376 |      10 |        10
+
+SELECT
+    u.name,
+    c.title,
+    ti.payment_time,
+    ta.position
+FROM
+    tickets ti
+INNER JOIN
+    users u ON u.user_id = ti.user_id
+INNER JOIN
+    tariffs ta ON ta.tariff_id = ti.tariff_id
+FULL JOIN
+    concerts c ON c.concert_id = ta.concert_id;
+

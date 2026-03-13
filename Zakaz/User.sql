@@ -1,0 +1,66 @@
+create table "user" (
+	id INT,
+	name VARCHAR(50),
+	email VARCHAR(50),
+	created_at DATE
+);
+insert into "user" (id, name, email, created_at) values (1, 'Blayne Getty', 'bgetty0@chicagotribune.com', '2005-06-21 03:37:47');
+insert into "user" (id, name, email, created_at) values (2, 'Town Eliasson', 'teliasson1@blogs.com', '2003-08-22 11:00:33');
+insert into "user" (id, name, email, created_at) values (3, 'Hendrik Han', 'hhan2@webmd.com', '2014-02-13 11:22:56');
+insert into "user" (id, name, email, created_at) values (4, 'Adriane Skillington', 'askillington3@list-manage.com', '2004-02-02 18:58:44');
+insert into "user" (id, name, email, created_at) values (5, 'Courtnay Kernocke', 'ckernocke4@gnu.org', '2002-12-14 14:40:07');
+insert into "user" (id, name, email, created_at) values (6, 'Fannie Brokenshaw', 'fbrokenshaw5@360.cn', '2015-06-08 03:18:54');
+insert into "user" (id, name, email, created_at) values (7, 'Abigael Edscer', 'aedscer6@skype.com', '2018-12-06 11:12:04');
+insert into "user" (id, name, email, created_at) values (8, 'Xenos Beechcraft', 'xbeechcraft7@java.com', '2006-11-29 13:13:24');
+insert into "user" (id, name, email, created_at) values (9, 'Dannie Drinkall', 'ddrinkall8@bigcartel.com', '2019-08-12 11:06:02');
+insert into "user" (id, name, email, created_at) values (10, 'Teena Cockerell', 'tcockerell9@globo.com', '2002-03-01 21:38:36');
+insert into "user" (id, name, email, created_at) values (11, 'Edie Sinclaire', 'esinclairea@ovh.net', '2012-08-15 14:22:55');
+insert into "user" (id, name, email, created_at) values (12, 'Gilligan Filippyev', 'gfilippyevb@geocities.jp', '2006-06-11 01:20:32');
+insert into "user" (id, name, email, created_at) values (13, 'Thekla Skaid', 'tskaidc@creativecommons.org', '2004-12-28 18:09:21');
+insert into "user" (id, name, email, created_at) values (14, 'Theodore Verrell', 'tverrelld@trellian.com', '2003-11-04 05:26:59');
+insert into "user" (id, name, email, created_at) values (15, 'Wyn MacGlory', 'wmacglorye@parallels.com', '2007-08-28 08:16:36');
+insert into "user" (id, name, email, created_at) values (16, 'Ninetta Baptist', 'nbaptistf@opensource.org', '2010-01-22 14:39:13');
+insert into "user" (id, name, email, created_at) values (17, 'Natal Wilmott', 'nwilmottg@noaa.gov', '2012-09-24 22:17:53');
+insert into "user" (id, name, email, created_at) values (18, 'Brynne Perschke', 'bperschkeh@exblog.jp', '2009-09-19 19:02:17');
+insert into "user" (id, name, email, created_at) values (19, 'Berta Van der Mark', 'bvani@last.fm', '2020-09-23 15:57:22');
+insert into "user" (id, name, email, created_at) values (20, 'Ernesto Ruvel', 'eruvelj@zdnet.com', '2009-02-15 05:33:24');
+insert into "user" (id, name, email, created_at) values (21, 'Gwennie Kender', 'gkenderk@people.com.cn', '2017-12-29 08:46:47');
+insert into "user" (id, name, email, created_at) values (22, 'Lindy Loeber', 'lloeberl@barnesandnoble.com', '2015-09-15 18:36:03');
+insert into "user" (id, name, email, created_at) values (23, 'Antoine Clemson', 'aclemsonm@tripadvisor.com', '2011-09-14 02:50:11');
+insert into "user" (id, name, email, created_at) values (24, 'Joy Dunnan', 'jdunnann@hp.com', '2012-02-24 09:32:06');
+insert into "user" (id, name, email, created_at) values (25, 'Terrell Stoak', 'tstoako@yale.edu', '2006-11-11 13:46:23');
+insert into "user" (id, name, email, created_at) values (26, 'Bethena Bartell', 'bbartellp@geocities.com', '2011-08-25 06:13:30');
+insert into "user" (id, name, email, created_at) values (27, 'Lib Lipp', 'llippq@xing.com', '2011-09-20 02:56:12');
+insert into "user" (id, name, email, created_at) values (28, 'Sarah Bohey', 'sboheyr@lycos.com', '2017-03-30 07:27:06');
+insert into "user" (id, name, email, created_at) values (29, 'Maryellen Carney', 'mcarneys@1688.com', '2001-11-25 08:36:40');
+insert into "user" (id, name, email, created_at) values (30, 'Zechariah Byron', 'zbyront@youku.com', '2019-05-06 16:41:48');
+insert into "user" (id, name, email, created_at) values (31, 'Winnah Muslim', 'wmuslimu@google.ru', '2006-04-08 02:16:18');
+insert into "user" (id, name, email, created_at) values (32, 'Goddart Cush', 'gcushv@storify.com', '2018-08-26 18:39:13');
+insert into "user" (id, name, email, created_at) values (33, 'Juditha Stathor', 'jstathorw@oakley.com', '2016-02-25 17:08:28');
+insert into "user" (id, name, email, created_at) values (34, 'Jeromy Knobell', 'jknobellx@narod.ru', '2010-11-01 07:46:10');
+insert into "user" (id, name, email, created_at) values (35, 'Mignonne MacAleese', 'mmacaleesey@uiuc.edu', '2011-07-27 21:40:32');
+insert into "user" (id, name, email, created_at) values (36, 'Melonie Drees', 'mdreesz@fc2.com', '2020-05-03 19:14:11');
+insert into "user" (id, name, email, created_at) values (37, 'Garrott Phebey', 'gphebey10@mozilla.com', '2011-06-14 15:36:36');
+insert into "user" (id, name, email, created_at) values (38, 'Giana Austen', 'gausten11@cyberchimps.com', '2012-08-20 22:10:13');
+insert into "user" (id, name, email, created_at) values (39, 'Marcela Skip', 'mskip12@alibaba.com', '2018-01-11 16:55:47');
+insert into "user" (id, name, email, created_at) values (40, 'Arda Reedy', 'areedy13@google.nl', '2003-08-29 06:26:30');
+insert into "user" (id, name, email, created_at) values (41, 'Izabel Varnam', 'ivarnam14@yandex.ru', '2012-03-29 11:47:12');
+insert into "user" (id, name, email, created_at) values (42, 'Elicia Dohmann', 'edohmann15@nih.gov', '2010-09-07 13:53:59');
+insert into "user" (id, name, email, created_at) values (43, 'Karee Rossbrooke', 'krossbrooke16@dion.ne.jp', '2006-10-07 21:07:13');
+insert into "user" (id, name, email, created_at) values (44, 'Vicky Tatlock', 'vtatlock17@apple.com', '2011-06-27 17:15:25');
+insert into "user" (id, name, email, created_at) values (45, 'Blinni Caspell', 'bcaspell18@google.co.jp', '2002-02-05 21:46:22');
+insert into "user" (id, name, email, created_at) values (46, 'Moina Matyukon', 'mmatyukon19@sphinn.com', '2017-12-09 23:29:17');
+insert into "user" (id, name, email, created_at) values (47, 'Lindsey Stansbury', 'lstansbury1a@bloglines.com', '2012-02-15 16:48:47');
+insert into "user" (id, name, email, created_at) values (48, 'Latisha Heersema', 'lheersema1b@engadget.com', '2009-06-22 12:03:29');
+insert into "user" (id, name, email, created_at) values (49, 'Rosemary Mathen', 'rmathen1c@omniture.com', '2012-10-18 09:30:15');
+insert into "user" (id, name, email, created_at) values (50, 'Guido Drayson', 'gdrayson1d@wordpress.com', '2005-01-04 05:12:24');
+insert into "user" (id, name, email, created_at) values (51, 'Yelena Brydone', 'ybrydone0@wsj.com', '2014-05-23 23:09:09');
+insert into "user" (id, name, email, created_at) values (52, 'Lulita Lovewell', 'llovewell1@omniture.com', '2014-01-05 09:06:41');
+insert into "user" (id, name, email, created_at) values (53, 'Carmine Pattenden', 'cpattenden2@senate.gov', '2007-06-06 16:49:16');
+insert into "user" (id, name, email, created_at) values (54, 'Peterus Szimoni', 'pszimoni3@tinypic.com', '2003-12-28 00:23:00');
+insert into "user" (id, name, email, created_at) values (55, 'Gaby Poskitt', 'gposkitt4@chron.com', '2013-02-04 11:00:41');
+insert into "user" (id, name, email, created_at) values (56, 'Nissie McLoughlin', 'nmcloughlin5@time.com', '2009-12-08 22:33:36');
+insert into "user" (id, name, email, created_at) values (57, 'Dewey Stenton', 'dstenton6@exblog.jp', '2018-10-31 22:40:15');
+insert into "user" (id, name, email, created_at) values (58, 'Enid Selway', 'eselway7@wufoo.com', '2016-05-15 00:33:12');
+insert into "user" (id, name, email, created_at) values (59, 'Agnella Thynn', 'athynn8@bloomberg.com', '2001-07-31 16:33:17');
+insert into "user" (id, name, email, created_at) values (60, 'Cate Faircliff', 'cfaircliff9@dailymail.co.uk', '2008-12-04 10:58:55');
